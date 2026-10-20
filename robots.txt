@@ -1,0 +1,6 @@
+# Cho phép tất cả các công cụ tìm kiếm cào dữ liệu
+User-agent: *
+Allow: /
+
+# Đường dẫn đến file Sitemap trên Web.App
+Sitemap: https://briannguyen0806.web.app/sitemap.xml
